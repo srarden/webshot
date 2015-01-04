@@ -1,5 +1,8 @@
-# node-webshot-server
 Node based server for taking webshots using [node-webshot](https://github.com/brenden/node-webshot). Includes heroku config.
+
+See it and use it live at <http://webshot.okfnlabs.org/>
+
+Originally forked from [opsb/node-webshot-server](https://github.com/opsb/node-webshot-server).
 
 ## Getting started
 
