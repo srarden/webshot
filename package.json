@@ -7,7 +7,7 @@
         "flatiron": "~0.3.8",
         "nodemon": "~0.7.10",
         "union": "~0.3.7",
-        "webshot": "~0.5.1",
+        "webshot": "srarden/node-webshot",
         "express": "3.4.3",
         "temp": "0.6.0",
         "ejs": "*"
@@ -19,12 +19,21 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:okfn/webshot"
+        "url": "git@github.com:srarden/webshot"
     },
     "author": "Oliver Searle-Barnes",
+    "contributors": [
+      {
+        "name": "Oliver Searle-Barnes"
+      },
+      {
+        "name": "Scott Rarden",
+        "email": "srarden@gmail.com"
+      }
+    ],
     "license": "BSD",
     "bugs": {
-        "url": "https://github.com/okfn/webshot/issues"
+        "url": "https://github.com/srarden/webshot/issues"
     },
     "engines": {
         "node": "0.10.x",
